@@ -3,4 +3,4 @@ import math
 print (math.pow(3,2))
 
 import random
-print(random.randint(0,100))
+print(f'Tohle je nahodne cislo: {random.randint(0,100)}')
